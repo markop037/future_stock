@@ -26,3 +26,12 @@ The system performs the following tasks:
    - Linear regression is applied to predict future stock price movements based on historical trends.
 4. **Visualization:** 
    - The actual and predicted stock prices are displayed in charts for easy comparison.
+
+## Example
+<div align="center">
+   <img src="images/Capture1.PNG" alt="Stock Closing Prices" height="400">
+   <p>Stock Closing Prices</p>
+   <hr>
+   <img src="images/Capture2.PNG" alt="Actual Values vs Predictions" height="400">
+   <p>Actual Values vs Predictions - <bold>Apple Inc.</bold></p>
+</div>
